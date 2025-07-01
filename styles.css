@@ -83,11 +83,6 @@ header {
   display: inline-block;
   transition: all 0.3s ease;
 }
-.gradient-btn {
-  background: linear-gradient(45deg, #7f00ff, #e100ff);
-  border: none;
-  color: white;
-}
 
 .gradient-btn:hover{
   transform: scale(1.05);
