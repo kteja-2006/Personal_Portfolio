@@ -4,7 +4,7 @@ A modern, responsive personal portfolio built using HTML, CSS, and JavaScript to
 
 ## 🌐 Live Demo
 
-🔗 [View Live](https://kteja-2006.github.io/portfolio/)
+🔗 [View Live](https://kteja-2006.github.io/Personal_Portfolio/)
 
 ---
 
